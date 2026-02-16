@@ -1,4 +1,4 @@
-## 🚀 Olá, eu sou o Daniel Godoi de Morais!
+## 🚀 Olá, eu sou o Daniel Godoi!
 
 Bem-vindo(a) ao meu perfil no GitHub. Sou um entusiasta da tecnologia com foco em desenvolvimento de software e inteligência artificial.
 
@@ -56,3 +56,10 @@ Sinta-se à vontade para me contatar para discussões sobre tecnologia, colabora
 
 * **(https://br.linkedin.com/in/daniel-godoi-de-morais-279982388)**
 * **danielgodoim1@gmail.com**
+---
+
+### ⚙️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,react,mysql,git,github" />
+</p>
