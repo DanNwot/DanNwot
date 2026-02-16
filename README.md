@@ -61,5 +61,5 @@ Sinta-se à vontade para me contatar para discussões sobre tecnologia, colabora
 ### ⚙️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,react,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,react,mysql,javascript,github" />
 </p>
