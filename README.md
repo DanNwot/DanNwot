@@ -21,7 +21,6 @@ Minha jornada de aprendizado está focada em duas grandes áreas: Desenvolviment
 | :--- | :--- | :--- |
 | **Desenvolvimento Web** | HTML, CSS, JavaScript (JS), React | 💡 Em aprendizado ativo e aplicação em projetos |
 | **Back-end & Automação** | Python | 🔥 Foco atual em Automação e Inteligência Artificial |
-| **Controle de Versão** | Git / GitHub | Essencial para o desenvolvimento colaborativo |
 
 ### 🧠 Foco e Interesses
 
@@ -43,9 +42,9 @@ Acredito que a comunicação global é vital na tecnologia. Sou fluente em múlt
 | **Português** | Nativo |
 | **Inglês** | Fluente (Profissional Completo) |
 | **Espanhol** | Fluente (Profissional Completo) |
-| **Alemão** | Em aprendizado |
-| **Italiano** | Em aprendizado |
-| **Francês** | Em aprendizado |
+| **Alemão** | Mediano |
+| **Italiano** | Mediano |
+| **Francês** | Mediano |
 | **Russo** | Em aprendizado |
 
 ---
